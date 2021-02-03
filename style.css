@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    background-color: rgb(211, 211, 211);
+    font-family: sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+}
+
+h1.header {
+    background-color: black;
+    color: white;
+    display: block;
+    text-align: right;
+    margin: 0;
+    padding: 7px;
+}
+
+main {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+section {
+    padding-top: 10px;
+    margin-top: 30px;
+    border-top: 3px black solid;
+}
+
+h1 {
+    display: flex;
+}
+
+p.date {
+    text-align: center;
+    display: inline;
+    background-color: gray;
+    color: white;
+    margin: auto;
+    font-size: 32px;
+    letter-spacing: 4px;
+    padding: 5px;
+}
+
+h2 {
+    border-bottom: 5px white solid;
+    font-size: 23px;
+}
+
+span.guy {
+    font-weight:700;
+    font-variant: small-caps;
+}
+
+q {
+    border-bottom: dashed red 1px;
+    font-size: 20px;
+}
+
+span.resaltar {
+    color: red;
+    background-color:white;
+}
+
+span.azulillo {
+    color: blue;
+}
